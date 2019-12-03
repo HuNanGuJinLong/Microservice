@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bussiness" />
+        <module name="provider" />
+        <module name="provider-api" />
+        <module name="provider-service" />
+        <module name="user-bussiness-login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bussiness" target="1.8" />
+      <module name="denpendencies" target="1.5" />
+      <module name="login" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="provider-api" target="1.8" />
+      <module name="provider-service" target="1.8" />
+      <module name="user-business-login" target="1.8" />
+      <module name="user-bussiness-login" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

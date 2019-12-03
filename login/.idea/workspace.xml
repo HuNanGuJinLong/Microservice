@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="012f220e-4900-4202-b34f-341d88507411" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/denpendencies/target/" />
+    <ignored path="$PROJECT_DIR$/provider/target/" />
+    <ignored path="$PROJECT_DIR$/provider-api/target/" />
+    <ignored path="$PROJECT_DIR$/provider/provider-api/target/" />
+    <ignored path="$PROJECT_DIR$/provider/provider-service/target/" />
+    <ignored path="$PROJECT_DIR$/bussiness/target/" />
+    <ignored path="$PROJECT_DIR$/bussiness/user-business-login/target/" />
+    <ignored path="$PROJECT_DIR$/bussiness/user-bussiness-login/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/java/com/gu/login/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/provider-api/src/main/java/com/gu/provider/LoginApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/provider/provider-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginApiImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/provider-service/src/main/java/com/gu/provider/service/LoginApiImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-api/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-api/src/main/java/com/gu/provider/LoginApi.java" />
+        <option value="$PROJECT_DIR$/bussiness/user-business-login/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bussiness/user-business-login/src/main/java/com/gu/login/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/bussiness/user-business-login/pom.xml" />
+        <option value="$PROJECT_DIR$/bussiness/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/denpendencies/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-service/src/main/java/com/gu/provider/entity/User.java" />
+        <option value="$PROJECT_DIR$/provider/provider-service/src/main/java/com/gu/provider/service/LoginApiImpl.java" />
+        <option value="$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider/provider-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bussiness/user-bussiness-login/pom.xml" />
+        <option value="$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/java/com/gu/login/controller/LoginController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bussiness" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="provider-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="provider-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-bussiness-login" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-bussiness-login" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-bussiness-login" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="835" />
+    <option name="y" value="73" />
+    <option name="width" value="1936" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="bussiness" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="bussiness" type="462c0819:PsiDirectoryNode" />
+              <item name="user-bussiness-login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="denpendencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/provider/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Demo\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderApiApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProviderApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gu.provider.ProviderApiApplication" />
+    </configuration>
+    <configuration name="ProviderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gu.provider.ProviderServiceApplication" />
+    </configuration>
+    <configuration name="UserBusinessLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-business-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gu.login.UserBusinessLoginApplication" />
+    </configuration>
+    <configuration name="UserBussinessLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-bussiness-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gu.login.UserBussinessLoginApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ProviderApiApplication" />
+      <item itemvalue="Spring Boot.ProviderServiceApplication" />
+      <item itemvalue="Spring Boot.UserBusinessLoginApplication" />
+      <item itemvalue="Spring Boot.UserBussinessLoginApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012f220e-4900-4202-b34f-341d88507411" name="Default" comment="" />
+      <created>1575354352001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575354352001</updated>
+      <workItem from="1575354353582" duration="3171000" />
+      <workItem from="1575357541154" duration="5268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8439000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.24413647" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.20255864" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info id="Web" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bussiness/user-business-login/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denpendencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-business-login/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-business-login/src/main/java/com/gu/login/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.2.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="27" column="74" lean-forward="true" selection-start-line="27" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.long.test:user-business-login:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.long.test:user-business-login:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.long.test:user-business-login:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE/org.springframework:spring-context:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE/org.springframework:spring-context:jar:5.2.1.RELEASE/org.springframework:spring-aop:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE/org.springframework:spring-context:jar:5.2.1.RELEASE/org.springframework:spring-beans:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot:jar:2.2.1.RELEASE/org.springframework:spring-context:jar:5.2.1.RELEASE/org.springframework:spring-expression:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.12.1/org.apache.logging.log4j:log4j-api:jar:2.12.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.2.1.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework:spring-core:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.springframework:spring-core:jar:5.2.1.RELEASE/org.springframework:spring-jcl:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.2.1.RELEASE/org.yaml:snakeyaml:jar:1.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-test:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2/jakarta.activation:jakarta.activation-api:jar:1.2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.apiguardian:apiguardian-api:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-api:jar:5.5.2/org.junit.platform:junit-platform-commons:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-params:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.5.2/org.junit.jupiter:junit-jupiter-engine:jar:5.5.2/org.junit.platform:junit-platform-engine:jar:1.5.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-junit-jupiter:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.assertj:assertj-core:jar:3.13.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.hamcrest:hamcrest:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy:jar:1.10.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/net.bytebuddy:byte-buddy-agent:jar:1.10.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.mockito:mockito-core:jar:3.1.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.springframework:spring-test:jar:5.2.1.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.2.1.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.7.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.7.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-test:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.assertj:assertj-core:jar:3.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.mockito:mockito-core:jar:2.23.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy:jar:1.9.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy-agent:jar:1.9.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.mockito:mockito-core:jar:2.23.4/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework:spring-core:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework:spring-core:jar:5.1.9.RELEASE/org.springframework:spring-jcl:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.springframework:spring-test:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.7.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/org.springframework:spring-context:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/org.springframework:spring-context:jar:5.1.9.RELEASE/org.springframework:spring-aop:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/org.springframework:spring-context:jar:5.1.9.RELEASE/org.springframework:spring-beans:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/org.springframework:spring-context:jar:5.1.9.RELEASE/org.springframework:spring-expression:jar:5.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/io.micrometer:micrometer-core:jar:1.1.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/io.micrometer:micrometer-core:jar:1.1.5/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.7.RELEASE/io.micrometer:micrometer-core:jar:1.1.5/org.latencyutils:LatencyUtils:jar:2.0.3</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.18.8</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:jar:2.7.3</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3/org.apache.dubbo:dubbo:jar:2.7.3</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3/org.apache.dubbo:dubbo:jar:2.7.3/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3/org.apache.dubbo:dubbo:jar:2.7.3/io.netty:netty-all:jar:4.1.38.Final</node>
+            <node x="" y="">org.apache.dubbo:dubbo-spring-boot-starter:jar:2.7.3/org.apache.dubbo:dubbo-spring-boot-autoconfigure:jar:2.7.3/org.apache.dubbo:dubbo:jar:2.7.3/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">com.long.test:provider-api:jar:unknown</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.alibaba.nacos:nacos-common:jar:1.1.3</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.alibaba.nacos:nacos-common:jar:1.1.3/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.alibaba.nacos:nacos-common:jar:1.1.3/org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.alibaba.nacos:nacos-api:jar:1.1.3</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.alibaba.nacos:nacos-api:jar:1.1.3/com.alibaba:fastjson:jar:1.2.58</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.fasterxml.jackson.core:jackson-core:jar:2.9.9</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.fasterxml.jackson.core:jackson-databind:jar:2.9.9</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/com.fasterxml.jackson.core:jackson-databind:jar:2.9.9/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.alibaba.nacos:nacos-client:jar:1.1.3/io.prometheus:simpleclient:jar:0.5.0</node>
+            <node x="" y="">com.alibaba:dubbo-registry-nacos:jar:0.0.2</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.1.2.RELEASE/org.springframework.security:spring-security-crypto:jar:5.1.6.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60/org.bouncycastle:bcprov-jdk15on:jar:1.60</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.code.findbugs:jsr305:jar:3.0.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-servo:jar:0.4.9</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-servo:jar:0.4.9/com.netflix.servo:servo-core:jar:0.7.5</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.hystrix:hystrix-core:jar:1.4.3</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.hystrix:hystrix-core:jar:1.4.3/com.netflix.archaius:archaius-core:jar:0.4.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/io.reactivex:rxnetty:jar:0.4.9</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/org.apache.httpcomponents:httpclient:jar:4.5.9</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/org.apache.httpcomponents:httpclient:jar:4.5.9/org.apache.httpcomponents:httpcore:jar:4.4.11</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1/com.sun.jersey:jersey-core:jar:1.19.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey:jersey-client:jar:1.19.1/com.sun.jersey:jersey-core:jar:1.19.1/javax.ws.rs:jsr311-api:jar:1.1.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:jar:2.1.0.RELEASE/com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:jar:2.1.0.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE/io.reactivex:rxjava:jar:1.3.8</node>
+            <node x="" y="">com.long.test:provider-api:jar:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.10554520037278659" x="4282.0" y="852.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-business-login/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denpendencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-service/src/main/java/com/gu/provider/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programSoftWare/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/ir/annotations/Reference.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-api/src/main/java/com/gu/provider/LoginApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/config/annotation/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-service/src/main/java/com/gu/provider/service/LoginApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/java/com/gu/login/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bussiness/user-bussiness-login/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/provider-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bussiness</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

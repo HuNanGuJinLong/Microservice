@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bussiness/bussiness.iml" filepath="$PROJECT_DIR$/bussiness/bussiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/denpendencies/denpendencies.iml" filepath="$PROJECT_DIR$/denpendencies/denpendencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/login.iml" filepath="$PROJECT_DIR$/.idea/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider-api/provider-api.iml" filepath="$PROJECT_DIR$/provider/provider-api/provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider-service/provider-service.iml" filepath="$PROJECT_DIR$/provider/provider-service/provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bussiness/user-bussiness-login/user-bussiness-login.iml" filepath="$PROJECT_DIR$/bussiness/user-bussiness-login/user-bussiness-login.iml" />
+    </modules>
+  </component>
+</project>
